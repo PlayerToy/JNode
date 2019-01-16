@@ -1,6 +1,6 @@
 {
   "name": "test",
   "modules": [
-    
+    "dom~0.1.0"
   ]
 }
